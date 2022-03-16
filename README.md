@@ -22,7 +22,7 @@ Not after we've come so far..."
 
  **(Argonavis)**
  
- 
+![](argonavis-argonavis-from-bangdream.gif)
  
 
 #
