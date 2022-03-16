@@ -5,12 +5,14 @@ emoji :virgo: y'all
 *Kon'nichiwa*
 
 ***
-<h5 align="center"> About_me </h5>
+* About_me 
 
->I am Princes Rose. I like watching anime, reading manga, manhwa and manhua.
+>I am Princes Rose Manuel
+>I like watching anime, reading manga, manhwa and manhua.
 
 
 ***
+* Other stuffs
 
 "Have we reached the hopes we saw that day?
 
@@ -19,6 +21,9 @@ That's right, this isn't the goal
 Not after we've come so far..."
 
  **(Argonavis)**
+ 
+ 
+ 
 
 #
 For more information
