@@ -22,7 +22,7 @@ Not after we've come so far..."
 
  **(Argonavis)**
  
-![](argonavis-argonavis-from-bangdream.gif)
+![Alt Text](https://tenor.com/view/argonavis-argonavis-from-bangdream-anime-sing-concert-gif-17718928)
  
 
 #
